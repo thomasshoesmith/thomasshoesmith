@@ -1,5 +1,5 @@
 ### University of Sussex UG
-# Computer Science with Artificial Intelligence 
+Computer Science with Artificial Intelligence 
 
 <!--
 **thomasshoesmith/thomasshoesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
