@@ -1,4 +1,4 @@
-### University of Sussex UG
+### University of Sussex PG
 Computer Science with Artificial Intelligence 
 
 <!--
