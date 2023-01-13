@@ -1,4 +1,4 @@
-### University of Sussex PG
+### University of Sussex PhD Student
 Computer Science with Artificial Intelligence 
 
 <!--
