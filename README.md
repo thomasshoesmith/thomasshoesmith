@@ -1,5 +1,5 @@
 ### University of Sussex PhD Student
-Computer Science with Artificial Intelligence 
+Investigating, Developing and Testing new encoding approaches for Spiking Neural Networks to solve event-based vision tasks
 
 <!--
 **thomasshoesmith/thomasshoesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
